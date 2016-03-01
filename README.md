@@ -5,4 +5,4 @@
 ![效果预览](https://raw.githubusercontent.com/wu0792/MiniMVC/master/MiniMVC/imgs/screen2.png)
 
 
-#代码参照 蒋金楠《ASP.NET MVC4》
+代码参照 蒋金楠《ASP.NET MVC4》
