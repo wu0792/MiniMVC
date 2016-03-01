@@ -1,0 +1,4 @@
+F:\Study\MiniMVC\MiniMVC\bin\MiniMVC.dll
+F:\Study\MiniMVC\MiniMVC\bin\MiniMVC.pdb
+F:\Study\MiniMVC\MiniMVC\obj\Debug\MiniMVC.dll
+F:\Study\MiniMVC\MiniMVC\obj\Debug\MiniMVC.pdb
